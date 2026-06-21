@@ -42,9 +42,9 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishor_sv&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsv&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor_sv&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&theme=tokyonight" />
 </p>
