@@ -2,7 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kishor%20S%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&center=true&vCenter=true&width=750&lines=AI%2FML+Engineering+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Working+Products+%E2%9C%A8" alt="Typing Animation"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&center=true&vCenter=true&width=750&lines=AI%2FML+Engineering+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+%26+Building+%E2%9C%A8" alt="Typing Animation"/>
+
+<br><br>
+
+<img src="./assets/profile.jpg" width="220" alt="Kishor S V"/>
 
 <br><br>
 
@@ -28,11 +34,15 @@
 
 # 🧑‍💻 About Me
 
+<div align="center">
+
 ### 👋 Hi, I'm Kishor
+
+</div>
 
 I'm an **AI/ML Engineering student and developer** passionate about technology, Artificial Intelligence, Generative AI, and modern web development.
 
-I enjoy taking an idea from:
+I enjoy taking an idea through:
 
 **💡 Concept → 🎨 Design → 💻 Development → 🧪 Testing → 🚀 Working Project**
 
@@ -51,37 +61,37 @@ I enjoy taking an idea from:
 
 # ⚡ My Technology Universe
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Programming Languages"/>
 </p>
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" alt="Frontend"/>
 </p>
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Backend"/>
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases"/>
 </p>
 
-### 🤖 AI / ML
+## 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI and ML"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI ML"/>
 </p>
 
-### 🔧 Tools
+## 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools"/>
@@ -91,23 +101,25 @@ I enjoy taking an idea from:
 
 # 🧠 Currently Learning
 
+<div align="center">
+
 ```text
-                 🧠 AI / ML
-                     │
-                     ▼
-              ✨ Generative AI
-                     │
-                     ▼
-               🐍 Advanced Python
-                     │
-                     ▼
-                  📊 DSA
-                     │
-                     ▼
-           💻 Full-Stack Development
-                     │
-                     ▼
-                 🎨 UI / UX
-                     │
-                     ▼
-          🚀 REAL-WORLD PROJECTS
+                    🧠 AI / ML
+                        │
+                        ▼
+                 ✨ Generative AI
+                        │
+                        ▼
+                  🐍 Advanced Python
+                        │
+                        ▼
+                     📊 DSA
+                        │
+                        ▼
+              💻 Full-Stack Development
+                        │
+                        ▼
+                    🎨 UI / UX
+                        │
+                        ▼
+             🚀 REAL-WORLD PROJECTS
