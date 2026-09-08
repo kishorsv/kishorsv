@@ -50,9 +50,6 @@ I enjoy taking an idea from **concept → design → development → working pro
 
 </td>
 
-<td width="45%">
-
-</td>
 </tr>
 </table>
 
