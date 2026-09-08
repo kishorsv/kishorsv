@@ -1,196 +1,219 @@
 <div align="center">
 
-# 👋 Hey, I'm Kishor S V
+<!-- HERO -->
 
-### 🚀 AI/ML Engineering Student | Full-Stack Developer | Generative AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kishor%20S%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+the+Future+with+AI+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%A0;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing Animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineering+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Explorer+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Technology+%E2%9C%A8" alt="Typing Animation"/>
 
-<p>
-  <a href="https://github.com/kishorsv">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/kishor-s-v">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/__kishuuu__10">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/kishorsv">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/kishor-s-v">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/__kishuuu__10">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kishorsv&label=PROFILE%20VIEWS&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Kishor S V
-role: AI/ML Engineering Student & Developer
-focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - Full-Stack Development
-  - Cloud & DevOps
-
-currently_learning:
-  - Advanced Python
-  - DSA
-  - Generative AI
-  - AI Agents
-  - Full-Stack Development
-  - Cloud & DevOps
-
-goal:
-  "Build useful, intelligent and scalable real-world applications."
-```
-
----
-
-## ⚡ What I Do
-
-* 🤖 Build AI-powered applications
-* 🧠 Explore Generative AI and AI agents
-* 💻 Develop modern full-stack web applications
-* 📊 Work with data and machine-learning technologies
-* ☁️ Explore cloud, deployment and DevOps
-* 🚀 Turn ideas into real-world products
-* 📚 Continuously improve my programming and problem-solving skills
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-### 🤖 AI / Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
-</p>
-
----
-
-# 🧠 Currently Learning
+# 🧑‍💻 About Me
 
 <table>
 <tr>
-<td>🤖 Generative AI</td>
-<td>🧠 AI Agents</td>
-<td>🐍 Advanced Python</td>
-</tr>
-<tr>
-<td>💻 Full-Stack Development</td>
-<td>☁️ Cloud Computing</td>
-<td>⚙️ DevOps</td>
-</tr>
-<tr>
-<td>📊 Data Structures</td>
-<td>🔐 API Development</td>
-<td>🚀 System Design</td>
+<td width="55%">
+
+### 👋 Hi, I'm Kishor
+
+I'm an **AI/ML Engineering student and developer** passionate about technology, artificial intelligence and modern web development.
+
+I enjoy taking an idea from **concept → design → development → working project**.
+
+### ⚡ What I Love
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* ✨ Generative AI
+* 💻 Full-Stack Development
+* 🎨 UI/UX & modern web design
+* 🚀 Building real-world projects
+* 📚 Learning new technologies
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&hide_border=true&rank_icon=github" width="100%"/>
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧠 Health Guide AI
-
-AI-powered health information assistant designed to help users understand health-related information in a simple way.
-
-**Focus:** AI • Generative AI • Full Stack • User Experience
-
----
-
-### 🏋️ AYQENIX Fit AI
-
-An AI-powered fitness platform concept focused on personalized workout, nutrition, recovery and fitness insights.
-
-**Focus:** AI • Fitness • Personalization • Full Stack
-
----
-
-### 💼 AI Career Mentor
-
-An AI-powered career assistance platform designed to help users explore skills, career paths and professional development.
-
-**Focus:** AI • Career • Web Development
-
----
-
-### 🌐 Personal Portfolio
-
-My personal developer portfolio showcasing my projects, technical skills, certifications and development journey.
-
-**Focus:** Frontend • UI/UX • Animation • Personal Branding
-
----
-
-# 📊 GitHub Statistics
+# ⚡ My Technology Universe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### 💻 Languages
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsv&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+
+<br/><br/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+<br/><br/>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<br/><br/>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 </div>
 
 ---
 
-# 💻 Most Used Languages
+# 🧠 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&theme=tokyonight&hide_border=true" />
+```text
+             🧠 AI / ML
+                 │
+                 ▼
+          ✨ Generative AI
+                 │
+                 ▼
+           🐍 Advanced Python
+                 │
+                 ▼
+             📊 DSA
+                 │
+                 ▼
+        💻 Full-Stack Development
+                 │
+                 ▼
+             🎨 UI / UX
+                 │
+                 ▼
+        🚀 REAL-WORLD PROJECTS
+```
 
 </div>
 
 ---
 
-# 🐍 Contribution Journey
+# 🚀 Building Real-World Projects
+
+> **Learn → Build → Test → Improve → Ship → Repeat**
+
+I'm focused on creating projects that solve practical problems rather than only building tutorial projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+| 🧠 Project                | 🎯 Focus                       |
+| ------------------------- | ------------------------------ |
+| 🩺 **Health Guide AI**    | AI + Generative AI + Web       |
+| 🏋️ **AYQENIX Fit AI**    | AI + Fitness + Personalization |
+| 💼 **AI Career Mentor**   | AI + Career + Web              |
+| 🌐 **Personal Portfolio** | UI/UX + Animation + Web        |
+
+</div>
+
+---
+
+# 🩺 Health Guide AI
+
+### An AI-powered health information platform
+
+A project focused on making health-related information easier to understand through an AI-powered interface.
+
+**Focus**
+
+`AI` `Generative AI` `React` `Full Stack` `UI/UX`
+
+---
+
+# 🏋️ AYQENIX Fit AI
+
+### AI-powered fitness experience
+
+A project concept focused on personalized fitness experiences, intelligent recommendations and user progress.
+
+**Focus**
+
+`AI` `Personalization` `Fitness` `Full Stack`
+
+---
+
+# 💼 AI Career Mentor
+
+### AI-powered career guidance platform
+
+A platform concept designed around helping users explore skills, career paths and professional development.
+
+**Focus**
+
+`AI` `Career` `Web Development` `Full Stack`
+
+---
+
+# 🎓 Certifications & Learning
+
+<div align="center">
+
+| 🏆 Area        | 📚 Learning                             |
+| -------------- | --------------------------------------- |
+| 🤖 AI          | Generative AI                           |
+| 💻 Development | Full-Stack Development                  |
+| 🐙 GitHub      | GitHub Professional / Career Essentials |
+| 📊 Data        | Microsoft Data Analysis                 |
+| ☁️ Google      | Google AI / Cloud Learning              |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&hide_border=true" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsv&hide_border=true" width="70%"/>
 
 </div>
 
@@ -200,84 +223,110 @@ My personal developer portfolio showcasing my projects, technical skills, certif
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishorsv&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=kishorsv&no-frame=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
 ---
 
-# 📜 Certifications & Learning
+# 🐍 Contribution Animation
 
-### 🎓 Certifications
+<div align="center">
 
-* 🟢 Generative AI learning/certification
-* 🟢 GitHub Professional / Career Essentials
-* 🟢 Microsoft Data Analysis training
-* 🟢 Google Cloud / Generative AI learning
-* 🟢 Full-Stack Development learning
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
-### 📚 Continuous Learning
-
-> "Learning today. Building tomorrow."
-
-I continuously work on improving my skills through projects, certifications, coding practice and real-world development.
+</div>
 
 ---
 
-# 🌱 My Development Journey
+# 🌱 My Developer Journey
+
+<div align="center">
 
 ```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-Full-Stack Development
-     ↓
-Python
-     ↓
-AI / ML
-     ↓
-Generative AI
-     ↓
-AI Agents
-     ↓
-Cloud + DevOps
-     ↓
-🚀 Building Intelligent Products
+                    🌱 START
+                       │
+                       ▼
+                 HTML + CSS
+                       │
+                       ▼
+                  JavaScript
+                       │
+                       ▼
+                    Bootstrap
+                       │
+                       ▼
+                     React
+                       │
+                       ▼
+              Full-Stack Development
+                       │
+                       ▼
+                    Python
+                       │
+                       ▼
+                    AI / ML
+                       │
+                       ▼
+               Generative AI
+                       │
+                       ▼
+              🚀 BUILD PROJECTS
+                       │
+                       ▼
+                🌎 REAL WORLD
+```
+
+</div>
+
+---
+
+# 🎯 2026 Mission
+
+```text
+[ ✓ ] Learn
+[ ✓ ] Experiment
+[ → ] Build more AI projects
+[ → ] Improve Full-Stack skills
+[ → ] Master Python
+[ → ] Improve DSA
+[ → ] Explore Generative AI
+[ → ] Contribute to Open Source
+[ → ] Build innovative products
 ```
 
 ---
 
-# 📈 2026 Goals
+# 💡 My Philosophy
 
-* 🚀 Build more real-world AI applications
-* 🤖 Become stronger in Generative AI
-* 🧠 Learn advanced AI agents
-* 💻 Improve DSA and problem solving
-* ☁️ Improve cloud and DevOps skills
-* 🌎 Contribute to open-source projects
-* 🏆 Participate in hackathons
-* 💼 Build a strong developer portfolio
-* ⭐ Grow my GitHub open-source contributions
+<div align="center">
+
+### "Don't just learn technology."
+
+### "Build something with it." 🚀
+
+<br/>
+
+**LEARN → CREATE → BUILD → IMPROVE → SHARE**
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Find Me Online
 
 <div align="center">
 
 <a href="https://github.com/kishorsv">
-<img src="https://img.shields.io/badge/GitHub-kishorsv-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-kishorsv-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kishor-s-v">
-<img src="https://img.shields.io/badge/LinkedIn-Kishor%20S%20V-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Kishor%20S%20V-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://x.com/__kishuuu__10">
-<img src="https://img.shields.io/badge/X-__kishuuu__10-000000?style=for-the-badge&logo=x" />
+<img src="https://img.shields.io/badge/X-__kishuuu__10-000000?style=for-the-badge&logo=x"/>
 </a>
 
 </div>
@@ -286,11 +335,10 @@ Cloud + DevOps
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-⭐ If you find my projects interesting, consider giving them a star!
+### ⭐ Thanks for visiting my GitHub profile!
 
-<img src="https://komarev.com/ghpvc/?username=kishorsv&label=Profile%20Views&color=0e75b6&style=flat" />
+**🚀 Learn. Build. Innovate. Repeat.**
 
 </div>
-
