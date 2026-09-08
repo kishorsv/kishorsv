@@ -162,27 +162,52 @@ I'm focused on creating projects that solve practical problems rather than only 
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&hide_border=true" width="49%"/>
+<!-- GitHub Profile Statistics -->
+<img
+src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+width="49%"
+alt="Kishor GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&hide_border=true" width="49%"/>
+<!-- Top Programming Languages -->
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+width="49%"
+alt="Kishor Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsv&hide_border=true" width="70%"/>
+<!-- GitHub Contribution Streak -->
+<img
+src="https://streak-stats.demolab.com/?user=kishorsv&theme=tokyonight&hide_border=true"
+width="70%"
+alt="Kishor GitHub Streak"
+/>
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=kishorsv&theme=tokyo-night&hide_border=true&area=true"
+width="95%"
+alt="Kishor GitHub Contribution Graph"
+/>
 
 </div>
-
 ---
-
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kishorsv&no-frame=true&margin-w=8&row=1" width="100%"/>
+### 🚀 Building • Learning • Contributing • Growing
+
+`AI/ML` • `Generative AI` • `Full-Stack` • `Open Source`
 
 </div>
 
