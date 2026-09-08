@@ -67,13 +67,13 @@ I enjoy taking an idea from **concept → design → development → working pro
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css" />
 
 <br/><br/>
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 
 <br/><br/>
 
@@ -91,7 +91,7 @@ I enjoy taking an idea from **concept → design → development → working pro
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
@@ -143,42 +143,6 @@ I'm focused on creating projects that solve practical problems rather than only 
 | 🌐 **Personal Portfolio** | UI/UX + Animation + Web        |
 
 </div>
-
----
-
-# 🩺 Health Guide AI
-
-### An AI-powered health information platform
-
-A project focused on making health-related information easier to understand through an AI-powered interface.
-
-**Focus**
-
-`AI` `Generative AI` `React` `Full Stack` `UI/UX`
-
----
-
-# 🏋️ AYQENIX Fit AI
-
-### AI-powered fitness experience
-
-A project concept focused on personalized fitness experiences, intelligent recommendations and user progress.
-
-**Focus**
-
-`AI` `Personalization` `Fitness` `Full Stack`
-
----
-
-# 💼 AI Career Mentor
-
-### AI-powered career guidance platform
-
-A platform concept designed around helping users explore skills, career paths and professional development.
-
-**Focus**
-
-`AI` `Career` `Web Development` `Full Stack`
 
 ---
 
