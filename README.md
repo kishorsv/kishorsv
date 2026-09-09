@@ -167,14 +167,6 @@ I'm focused on creating projects that solve practical problems rather than only 
 
 <div align="center">
 
-
-<!-- Top Programming Languages -->
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-width="49%"
-alt="Kishor Top Languages"
-/>
-
 <br/><br/>
 
 <!-- GitHub Contribution Streak -->
@@ -195,7 +187,9 @@ alt="Kishor GitHub Contribution Graph"
 
 </div>
 ---
+
 # 🏆 GitHub Achievements
+
 
 <div align="center">
 
