@@ -167,12 +167,6 @@ I'm focused on creating projects that solve practical problems rather than only 
 
 <div align="center">
 
-<!-- GitHub Profile Statistics -->
-<img
-src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
-width="49%"
-alt="Kishor GitHub Statistics"
-/>
 
 <!-- Top Programming Languages -->
 <img
