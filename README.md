@@ -178,15 +178,10 @@ alt="Kishor GitHub Streak"
 
 <br/><br/>
 
-<!-- Contribution Activity Graph -->
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=kishorsv&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-alt="Kishor GitHub Contribution Graph"
-/>
 
 </div>
----
+
+
 
 # 🏆 GitHub Achievements
 
