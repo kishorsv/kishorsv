@@ -304,7 +304,7 @@ alt="Kishor GitHub Streak"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-### ⭐ hanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my GitHub profile!
 
 **🚀 Learn. Build. Innovate. Repeat.**
 
