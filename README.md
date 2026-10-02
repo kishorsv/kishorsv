@@ -196,16 +196,6 @@ alt="Kishor GitHub Streak"
 
 ---
 
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
----
-
 # 🌱 My Developer Journey
 
 <div align="center">
