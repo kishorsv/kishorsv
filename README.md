@@ -1,290 +1,160 @@
+
 <div align="center">
 
-<!-- HERO -->
+<!-- HERO SECTION -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kishor%20S%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:101B40,100:712CF9&text=KISHOR%20SV&fontColor=FFFFFF&fontSize=55&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20FULL%20STACK%20DEVELOPER&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineering+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Explorer+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Technology+%E2%9C%A8" alt="Typing Animation"/>
+### ⚡ Building intelligent systems. Turning ideas into reality.
+
+<a href="https://github.com/kishorsv">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Explorer;Full+Stack+Developer+in+Progress;Building+Real+World+AI+Projects;Learning+%7C+Building+%7C+Innovating" />
+</a>
 
 <br/>
 
 <a href="https://github.com/kishorsv">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=kishorsv&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </a>
-<a href="https://www.linkedin.com/in/kishor-s-v">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/__kishuuu__10">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kishorsv&label=PROFILE%20VIEWS&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧠 About Me
+
+```yaml
+Name: Kishor SV
+Role: AI/ML Developer | Full Stack Developer
+Currently: Learning & Building AI-powered applications
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Full Stack Development
+  - Real-Time Intelligent Systems
+Goal: Build technology that solves real-world problems.
+Mindset: Learn continuously. Build consistently. Innovate boldly.
+```
+
+- 🚀 Developing AI-powered real-world solutions
+- 🤖 Exploring intelligent systems and Generative AI
+- 🌐 Building full-stack web applications
+- 🏆 Participating in hackathons and innovation challenges
+- 📈 Improving my skills through hands-on projects every day
+
+---
+
+## ⚙️ Tech Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,nodejs,express,fastapi,flask&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,git,github,vscode,vercel,aws,docker&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
-### 👋 Hi, I'm Kishor
-
-I'm an **AI/ML Engineering student and developer** passionate about technology, artificial intelligence and modern web development.
-
-I enjoy taking an idea from **concept → design → development → working project**.
-
-### ⚡ What I Love
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* ✨ Generative AI
-* 💻 Full-Stack Development
-* 🎨 UI/UX & modern web design
-* 🚀 Building real-world projects
-* 📚 Learning new technologies
+### 🚑 Mysuru Emergency AI
+AI-driven emergency intelligence and hospital readiness platform.
 
 </td>
+<td width="50%">
 
+### 🧠 SENSE-X
+Early-warning intelligence for identifying potential infrastructure failures.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 AYQENIX Chat AI
+AI-based conversational application for intelligent communication.
+
+</td>
+<td width="50%">
+
+### 🎓 Scholarship Eligibility AI
+Smart scholarship discovery and eligibility-matching platform.
+
+</td>
 </tr>
 </table>
 
 ---
 
-# ⚡ My Technology Universe
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 💻 Languages
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
-
-<br/><br/>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css" />
-
-<br/><br/>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-
-<br/><br/>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-<br/><br/>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-<br/><br/>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+## 🔥 Contribution Streak
 
 <div align="center">
 
-```text
-             🧠 AI / ML
-                 │
-                 ▼
-          ✨ Generative AI
-                 │
-                 ▼
-           🐍 Advanced Python
-                 │
-                 ▼
-             📊 DSA
-                 │
-                 ▼
-        💻 Full-Stack Development
-                 │
-                 ▼
-             🎨 UI / UX
-                 │
-                 ▼
-        🚀 REAL-WORLD PROJECTS
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsv&theme=tokyonight&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-# 🚀 Building Real-World Projects
-
-> **Learn → Build → Test → Improve → Ship → Repeat**
-
-I'm focused on creating projects that solve practical problems rather than only building tutorial projects.
+## 🐍 Contribution Snake
 
 <div align="center">
 
-| 🧠 Project                | 🎯 Focus                       |
-| ------------------------- | ------------------------------ |
-| 🩺 **Health Guide AI**    | AI + Generative AI + Web       |
-| 🏋️ **AYQENIX Fit AI**    | AI + Fitness + Personalization |
-| 💼 **AI Career Mentor**   | AI + Career + Web              |
-| 🌐 **Personal Portfolio** | UI/UX + Animation + Web        |
+<img src="https://raw.githubusercontent.com/kishorsv/kishorsv/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 
 </div>
 
 ---
 
-# 🎓 Certifications & Learning
+## 📈 Contribution Activity
 
 <div align="center">
 
-| 🏆 Area        | 📚 Learning                             |
-| -------------- | --------------------------------------- |
-| 🤖 AI          | Generative AI                           |
-| 💻 Development | Full-Stack Development                  |
-| 🐙 GitHub      | GitHub Professional / Career Essentials |
-| 📊 Data        | Microsoft Data Analysis                 |
-| ☁️ Google      | Google AI / Cloud Learning              |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorsv&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<br/><br/>
-
-<!-- GitHub Contribution Streak -->
-<img
-src="https://streak-stats.demolab.com/?user=kishorsv&theme=tokyonight&hide_border=true"
-width="70%"
-alt="Kishor GitHub Streak"
-/>
-
-<br/><br/>
-
-
-</div>
-
-
-
-# 🏆 GitHub Achievements
-
-
-<div align="center">
-
-### 🚀 Building • Learning • Contributing • Growing
-
-`AI/ML` • `Generative AI` • `Full-Stack` • `Open Source`
-
-</div>
-
----
-
-# 🌱 My Developer Journey
-
-<div align="center">
-
-```text
-                    🌱 START
-                       │
-                       ▼
-                 HTML + CSS
-                       │
-                       ▼
-                  JavaScript
-                       │
-                       ▼
-                    Bootstrap
-                       │
-                       ▼
-                     React
-                       │
-                       ▼
-              Full-Stack Development
-                       │
-                       ▼
-                    Python
-                       │
-                       ▼
-                    AI / ML
-                       │
-                       ▼
-               Generative AI
-                       │
-                       ▼
-              🚀 BUILD PROJECTS
-                       │
-                       ▼
-                🌎 REAL WORLD
-```
-
-</div>
-
----
-
-# 🎯 2026 Mission
-
-```text
-[ ✓ ] Learn
-[ ✓ ] Experiment
-[ → ] Build more AI projects
-[ → ] Improve Full-Stack skills
-[ → ] Master Python
-[ → ] Improve DSA
-[ → ] Explore Generative AI
-[ → ] Contribute to Open Source
-[ → ] Build innovative products
-```
-
----
-
-# 💡 My Philosophy
-
-<div align="center">
-
-### "Don't just learn technology."
-
-### "Build something with it." 🚀
-
-<br/>
-
-**LEARN → CREATE → BUILD → IMPROVE → SHARE**
-
-</div>
-
----
-
-# 🌐 Find Me Online
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/kishorsv">
-<img src="https://img.shields.io/badge/GitHub-kishorsv-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/kishor-s-v">
-<img src="https://img.shields.io/badge/LinkedIn-Kishor%20S%20V-0A66C2?style=for-the-badge&logo=linkedin"/>
+<!-- Add your actual social links below -->
+
+<!--
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/__kishuuu__10">
-<img src="https://img.shields.io/badge/X-__kishuuu__10-000000?style=for-the-badge&logo=x"/>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+-->
 
 </div>
 
@@ -292,10 +162,8 @@ alt="Kishor GitHub Streak"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn" width="100%"/>
+### ⚡ *Code. Create. Innovate. Repeat.*
 
-### ⭐ Thanks for visiting my GitHub profile!
-
-**🚀 Learn. Build. Innovate. Repeat.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:712CF9,50:101B40,100:050816&section=footer" width="100%" />
 
 </div>
