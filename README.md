@@ -156,16 +156,6 @@ Smart scholarship discovery and eligibility-matching platform.
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorsv&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
