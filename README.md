@@ -116,13 +116,53 @@ Smart scholarship discovery and eligibility-matching platform.
 
 ---
 
-## 🐍 Contribution Snake
+
+<!-- ═══════════════ LIVE DEVELOPER DASHBOARD ═══════════════ -->
+
+<h2 align="center">📊 DEVELOPER ANALYTICS</h2>
+<p align="center">
+  <i>Live coding activity • Contribution streak • Developer stats</i>
+</p>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kishorsv/kishorsv/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kishorsv&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=E6EDF3" />
+
+<!-- Streak Stats -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsv&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" />
 
 </div>
+
+<br/>
+
+<!-- Contribution Activity Graph -->
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kishorsv&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+
+</div>
+
+<br/>
+
+<!-- Top Languages -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorsv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=E6EDF3&langs_count=10" />
+
+</div>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kishorsv&theme=discord&no-frame=true&no-bg=true&column=7" />
+
+</div>
+
+<!-- ═════════════════════════════════════════════════════════ -->
+
 
 ---
 
