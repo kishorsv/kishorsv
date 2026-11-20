@@ -106,16 +106,6 @@ Smart scholarship discovery and eligibility-matching platform.
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorsv&theme=tokyonight&hide_border=true" width="90%" />
-
-</div>
-
----
-
 
 <!-- ═══════════════ LIVE DEVELOPER DASHBOARD ═══════════════ -->
 
